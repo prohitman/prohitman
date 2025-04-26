@@ -5,8 +5,8 @@ My name is **Amine Lahnin**
 **`Digital Craftsman • Java Developer • Modding Enthusiast`**
 
 - 🌍 Based in Morocco | 🎓 Currently on exchange at the University of Helsinki  
-- ☕ Java developer since 2019 — it all started with Minecraft mods  
-- 🧠 Learning Full Stack Web Development and CS fundamentals  
+- ☕ Java developer since 2019
+- 🧠 Learning Full Stack Web Development 
 - 💼 I develop custom Minecraft mods — open to commissions for gameplay systems, entities, and mechanics  
 - ✉️ Reach me at [a.lahnin@aui.ma](mailto:a.lahnin@aui.ma)  
 - 🎮 Minecraft fanatic & systems tinkerer  
