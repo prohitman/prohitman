@@ -8,7 +8,7 @@ My name is **Amine Lahnin**
 - ☕ Java developer since 2019
 - 🧠 Learning Full Stack Web Development 
 - 💼 I develop custom Minecraft mods — open to commissions for gameplay systems, entities, and mechanics  
-- ✉️ Reach me at [a.lahnin@aui.ma](mailto:lahnamin@gmail.com)  
+- ✉️ Reach me at [lahnamin@gmail.com](mailto:lahnamin@gmail.com)  
 - 🎮 Minecraft fanatic & systems tinkerer  
 
 ---
